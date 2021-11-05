@@ -3,7 +3,7 @@
     - In the spring semester of 2022, I will be on an exchange semester at the University of Cape Town, taking courses in Operative Systems, Networks and Mathematics. 
    
 - 👀 I’m interested in cyber security and green tech. 
-- 🌱 I’m currently working on building a webapplication for a startup called SquareRoot, with React. 
+- 🌱 I’m currently working on building a webapplication with React for a startup called SquareRoot. 
 
 
 <!---
