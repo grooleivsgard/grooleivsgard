@@ -2,8 +2,7 @@
     - So far, I have learned Java, React, JavaScript, HTML, CSS, Bootstrap, MySQL, Git and Adobe XD. I am currently learning Python.
     - In addition to these languages, I also have an in-depth knowledge in Discrete Mathematics, IoT, Assistive and Welfare Technologies, Testing (Unit-, Integration- and Systemtesting),                Software Development, HCI and Data Visualization. 
    
-- 👀 I’m interested in cyber security and green tech. 
-- 🌱 I’m currently on exchange at the University of Cape Town.
+- 👀 I’m interested in IoT, cyber security and green tech.
 
 <!---
 grooleivsgard/grooleivsgard is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
