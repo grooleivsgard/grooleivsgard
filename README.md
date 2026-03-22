@@ -1,4 +1,4 @@
-👋 Hi, I’m @grooleivsgard! I am a MSc student in Software Engineering at NTNU, and will graduate in the spring of 2025. 
+👋 Hi, I’m @grooleivsgard! I am a PhD Candidate in Explainable AI at NTNU in Norway.
 
 
 <!---
